@@ -9,7 +9,7 @@
 
 ##第一步
 打开软件来到首页，登录（调用腾讯QQ中心的网页）：
-![image](https://github.com/mxy19980428/QQ-KBZL/blob/master/%E5%9B%BE%E7%89%87/1.png)
+![image](https://github.com/mxy19980428/QQ-KBZL/blob/master/image/1.png)
 
 ##第二步
 点击一键清空所有资料即可！
