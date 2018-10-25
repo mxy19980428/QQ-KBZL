@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/qddd">
+
+
+    <Button
+        android:id="@+id/bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="一键清空所有资料" />
+
+    <Button
+        android:id="@+id/tmtx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bottom"
+        android:layout_centerHorizontal="true"
+        android:text="设置全透明头像" />
+
+    <Button
+        android:id="@+id/lxzz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tmtx"
+        android:layout_centerHorizontal="true"
+        android:text="联系作者" />
+
+</RelativeLayout>
